@@ -125,10 +125,6 @@ seconds → reframe the moment around the Forward Deployed Engineer role and the
 changing hiring landscape (Anthropic FDE postings, Google allowing AI in
 interviews).
 
-The emotional beat on slides 7–8 ("18 seconds" → "sit with this") is the point
-of the whole session. If a TA rushes past it, the lesson collapses into "cool
-LLM trick." The TA guide flags this explicitly.
-
 The Benchmarker milestone itself (TLE-aware feedback) is the hands-on portion.
 The key engineering idea: **the feedback you send the LLM must differ by failure
 type** — a TLE message ("correct but slow") is different from a WA message
