@@ -24,8 +24,8 @@ The following course files and presentations are available in this repository:
 * **Week 3:** [Week-3-Running-the-Machine.pdf](https://www.google.com/search?q=./Week-3-Running-the-Machine.pdf)
 * **Week 4:** [Week-4-Milestone-1-Coder.pdf](https://www.google.com/search?q=./Week-4-Milestone-1-Coder.pdf)
 * **Week 5:**
-* [Week-5-Milestone-2-Benchmark.pdf](https://www.google.com/search?q=./Week-5-Milestone-2-Benchmark.pdf)
-* [Week5_Deck](https://www.google.com/search?q=./Week5_Deck)
+  * [Week-5-Milestone-2-Benchmark.pdf](https://www.google.com/search?q=./Week-5-Milestone-2-Benchmark.pdf)
+  * [Week5_Deck](https://www.google.com/search?q=./Week5_Deck)
 
 
 * **Week 6:** [Week6_Deck](https://www.google.com/search?q=./Week6_Deck)
