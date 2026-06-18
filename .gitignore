@@ -1,0 +1,8 @@
+# Runtime artifacts written by the pipeline to the code dir
+solution.py
+integration_report.json
+integration_report.txt
+
+# Python bytecode
+__pycache__/
+*.pyc

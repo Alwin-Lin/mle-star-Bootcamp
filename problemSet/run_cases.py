@@ -15,11 +15,13 @@
 import sys
 import json
 import time
+import pathlib
 import tracemalloc
 import importlib
 import traceback
 
-sys.path.insert(0, ".")
+CODE_DIR = pathlib.Path(__file__).parent
+sys.path.insert(0, str(CODE_DIR))
 
 from problem_set import PROBLEMS
 

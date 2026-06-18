@@ -1,12 +1,11 @@
 # ============================================================
-# problem_set_week7.py
+# problem_set.py
 # ============================================================
 # WEEK 7 — MILESTONE 4: INTEGRATION
 #
-# Steps:
-#   1. Rename this file to problem_set.py   (overwrite the old one)
-#   2. Rename run_cases_week7.py to run_cases.py
-#   3. Run integration_starter.py or integration_advanced.py
+# Usage:
+#   Run integration_starter.py or integration_advanced.py
+#   from inside the problemSet/ directory.
 #
 # NEW IN WEEK 7:
 #   - Problem 9 (Brackets Balance) is added as a fresh end-to-end test.
