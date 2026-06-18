@@ -6,3 +6,7 @@ integration_report.txt
 # Python bytecode
 __pycache__/
 *.pyc
+
+# Large datasets — download from Hugging Face, don't commit (see
+# finalProblemsets/DATASET.md). GitHub rejects files over 100 MB.
+*.parquet
