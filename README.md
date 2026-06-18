@@ -19,14 +19,14 @@ The system reads a problem statement, generates a Python script, tests it agains
 
 The following course files and presentations are available in this repository:
 
-* **Week 1:** [week1FromScriptstoSystems.pdf](./presentations/week1FromScriptstoSystems.pdf)
-* **Week 2:** [week2FromStrategyToImplementati.pdf](./presentations/week2FromStrategyToImplementati.pdf)
-* **Week 3:** [week3RunningTheMachine.pdf](./presentations/week3RunningTheMachine.pdf)
-* **Week 4:** [week4Milestone1Coder.pdf](./presentations/week4Milestone1Coder.pdf)
-* **Week 5:** [week5Milestone2Benchmark.pdf](./presentations/week5Milestone2Benchmark.pdf)
-* **Week 6:** [week6Deck.pptx](./presentations/week6Deck.pptx)
-* **Week 7:** [Week7_Deck.pptx](./presentations/Week7_Deck.pptx)
-* **Week 8:** [Week8_Pipeline_Evaluation.pptx](./presentations/Week8_Pipeline_Evaluation.pptx)
+* **Week 1:** [week01_FromScriptsToSystems.pdf](./presentations/week01_FromScriptsToSystems.pdf)
+* **Week 2:** [week02_FromStrategyToImplementation.pdf](./presentations/week02_FromStrategyToImplementation.pdf)
+* **Week 3:** [week03_RunningTheMachine.pdf](./presentations/week03_RunningTheMachine.pdf)
+* **Week 4:** [week04_Milestone1Coder.pdf](./presentations/week04_Milestone1Coder.pdf)
+* **Week 5:** [week05_Milestone2Benchmark.pdf](./presentations/week05_Milestone2Benchmark.pdf)
+* **Week 6:** [week06_Deck.pptx](./presentations/week06_Deck.pptx)
+* **Week 7:** [week07_Deck.pptx](./presentations/week07_Deck.pptx)
+* **Week 8:** [week08_PipelineEvaluation.pptx](./presentations/week08_PipelineEvaluation.pptx)
 
 ---
 
