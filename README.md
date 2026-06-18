@@ -6,12 +6,12 @@ The system reads a problem statement, generates a Python script, tests it agains
 
 ## Table of Contents
 
-* [Course Materials](https://www.google.com/search?q=%23course-materials)
-* [Information for Educators](https://www.google.com/search?q=%23information-for-educators)
-* [Information for Students](https://www.google.com/search?q=%23information-for-students)
-* [Course Architecture](https://www.google.com/search?q=%23course-architecture)
-* [Weekly Syllabus](https://www.google.com/search?q=%23weekly-syllabus)
-* [Setup and Installation](https://www.google.com/search?q=%23setup-and-installation)
+* [Course Materials](#course-materials)
+* [Information for Educators](#information-for-educators)
+* [Information for Students](#information-for-students)
+* [Course Architecture](#course-architecture)
+* [Weekly Syllabus](#weekly-syllabus)
+* [Setup and Installation](#setup-and-installation)
 
 ---
 
@@ -19,18 +19,14 @@ The system reads a problem statement, generates a Python script, tests it agains
 
 The following course files and presentations are available in this repository:
 
-* **Week 1:** [Week-1-From-Scripts-to-Systems (1).pdf](https://www.google.com/search?q=./Week-1-From-Scripts-to-Systems%2520(1).pdf)
-* **Week 2:** [Week-2-From-Strategy-to-Implementation (1).pdf](https://www.google.com/search?q=./Week-2-From-Strategy-to-Implementation%2520(1).pdf)
-* **Week 3:** [Week-3-Running-the-Machine.pdf](https://www.google.com/search?q=./Week-3-Running-the-Machine.pdf)
-* **Week 4:** [Week-4-Milestone-1-Coder.pdf](https://www.google.com/search?q=./Week-4-Milestone-1-Coder.pdf)
-* **Week 5:**
-  * [Week-5-Milestone-2-Benchmark.pdf](https://www.google.com/search?q=./Week-5-Milestone-2-Benchmark.pdf)
-  * [Week5_Deck](https://www.google.com/search?q=./Week5_Deck)
-
-
-* **Week 6:** [Week6_Deck](https://www.google.com/search?q=./Week6_Deck)
-* **Week 7:** [Week7_Deck.pptx](https://www.google.com/search?q=./Week7_Deck.pptx)
-* **Week 8:** [Week8_Student_Handout.docx](https://www.google.com/search?q=./Week8_Student_Handout.docx)
+* **Week 1:** [week1FromScriptstoSystems.pdf](./presentations/week1FromScriptstoSystems.pdf)
+* **Week 2:** [week2FromStrategyToImplementati.pdf](./presentations/week2FromStrategyToImplementati.pdf)
+* **Week 3:** [week3RunningTheMachine.pdf](./presentations/week3RunningTheMachine.pdf)
+* **Week 4:** [week4Milestone1Coder.pdf](./presentations/week4Milestone1Coder.pdf)
+* **Week 5:** [week5Milestone2Benchmark.pdf](./presentations/week5Milestone2Benchmark.pdf)
+* **Week 6:** [week6Deck.pptx](./presentations/week6Deck.pptx)
+* **Week 7:** [Week7_Deck.pptx](./presentations/Week7_Deck.pptx)
+* **Week 8:** [Week8_Pipeline_Evaluation.pptx](./presentations/Week8_Pipeline_Evaluation.pptx)
 
 ---
 
